@@ -39,3 +39,14 @@ if (forma === "quadrado"){
 
 console.log(area);
 
+// tipagem dinâmica
+
+let minhaVAr = 567;
+minhaVar = "texto";
+minhaVar = true;
+
+// Não preciso declarar qual o tipo de variavel
+
+// Liguage multiparadigma: consegur resolver um problema de várias maneiras
+// ES6 / ES2015: é a versão do JS que saiu em 2015 e foi a mais marcante e partir daí começou a sair atualizações anuais
+// Liguagem interpretada

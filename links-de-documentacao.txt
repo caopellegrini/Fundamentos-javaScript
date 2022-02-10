@@ -1,0 +1,2 @@
+Documentação node.js: https://nodejs.org/api/console.html
+Operadores em JavaScript: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators
